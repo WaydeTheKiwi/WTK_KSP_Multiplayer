@@ -25,6 +25,11 @@
             "suppress_recommendations": true
         },
         {
+            "name": "LunaMultiplayer",
+            "version": "0.29.0",
+            "suppress_recommendations": true
+        },
+        {
             "name": "AdvancedJetEngine",
             "version": "v2.20.0",
             "suppress_recommendations": true
@@ -423,8 +428,13 @@
             "name": "Waterfall",
             "version": "0.10.5",
             "suppress_recommendations": true
+        },
+        {
+            "name": "WTKKSPMultiplayerV1",
+            "version": "V1",
+            "suppress_recommendations": true
         }
     ],
-    "release_date": "2025-07-30T16:05:57.8432812Z",
+    "release_date": "2025-07-30T16:15:25.5512054Z",
     "kind": "metapackage"
 }
