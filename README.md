@@ -4,6 +4,8 @@
 
 Complete setup instructions for Kerbal Space Program with LunaMultiplayer (LMP) and mods using CKAN.
 
+![KSP Folder Structure](./images/ksp_folder_example.png)
+
 ## 📋 Prerequisites
 
 - Windows PC with Steam
@@ -32,6 +34,8 @@ C:\Program Files (x86)\Steam\steamapps\common\Kerbal Space Program\
 2. Ensure **beta version is disabled**:
    - Right-click KSP → **Properties** → **Betas** tab → Set to **None**
 
+![Steam Beta Settings](./images/steam_betas.png)
+
 ## 📁 Step 2: Create Game Copies
 
 1. Navigate to your KSP installation:
@@ -59,6 +63,8 @@ C:\Program Files (x86)\Steam\steamapps\common\Kerbal Space Program\
 2. Run: `dotnet --version`
 3. If version is below 4.8, download from: https://dotnet.microsoft.com/download
 
+![.NET Version Check](./images/dotnet_version.png)
+
 ## 🧩 Step 4: Setup CKAN Mod Manager
 
 ### Download and Install
@@ -70,13 +76,27 @@ C:\Program Files (x86)\Steam\steamapps\common\Kerbal Space Program\
 ### Initial Configuration
 
 1. Select **KSP 1.12** ONLY (uncheck other versions)
+
+![CKAN Compatible Versions - Default](./images/CKAN_compatible_versions_default.png)
+
+Select only KSP 1.12 and click Continue:
+
+![CKAN Compatible Versions - Updated](./images/CKAN_compatible_versions_updated.png)
+
 2. Click **Yes** to check for updates
 3. Refresh mod list if prompted
+
+![CKAN Refresh Mod List](./images/CKAN_refresh_mod_list.png)
 
 ### Cleanup Game Instances
 
 - Go to **Settings** → **Manage Game Instances**
+
+![CKAN Game Instances - Default](./images/CKAN_game_instances_default.png)
+
 - Remove all instances except `Kerbal Space Program_Modded`
+
+![CKAN Game Instances - Updated](./images/CKAN_game_instances_updated.png)
 
 ## 📦 Step 5: Install Mod Pack
 
@@ -84,8 +104,17 @@ C:\Program Files (x86)\Steam\steamapps\common\Kerbal Space Program\
    https://github.com/WaydeTheKiwi/WTK_KSP_Multiplayer
 
 2. In CKAN: **File** → **Install from .ckan**
+
+![CKAN File Menu](./images/CKAN_file_menu.png)
+
 3. Select the downloaded `.ckan` file
-4. Confirm installation when prompted
+4. You may see a permission dialog - click **Yes**:
+
+![CKAN Permission Handler](./images/CKAN_requires_permission_to_add_a_handler.png)
+
+5. Confirm installation when prompted to overwrite:
+
+![CKAN Overwrite Files](./images/CKAN_over_write_files.png)
 
 ## 🚀 Step 6: First Launch
 
@@ -99,11 +128,23 @@ C:\Program Files (x86)\Steam\steamapps\common\Kerbal Space Program\
 - "Loading Expansions" and ModuleManager setup will be slow
 - If Parallax warning appears and won't close, press `ESC`
 
+![Parallax Warning](./images/KSP_parallax_warning.png)
+
+- You may also see Community Fixes notifications - these are normal:
+
+![Community Fixes](./images/KSP_community_fixes.png)
+
 ## ⚙️ Step 7: Configure Settings
 
 ### General Settings
 
 - ✅ Enable **Advanced Tweakables**
+
+### Input Settings
+
+- **Default Throttle (Pre-Launch)**: 100%
+
+![Advanced Tweakables and Default Throttle](./images/KSP_advanced_tweakables+_default_throttle.png)
 
 ### Graphics Settings
 
@@ -111,10 +152,6 @@ C:\Program Files (x86)\Steam\steamapps\common\Kerbal Space Program\
 - **Texture Quality**: High or Full Res
 - ✅ Enable **Terrain Scatters**
 - **Terrain Scatters Quality**: High or higher
-
-### Input Settings
-
-- **Default Throttle (Pre-Launch)**: 100%
 
 ### Optional: Borderless Window
 
