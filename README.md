@@ -88,6 +88,10 @@ Select only KSP 1.12 and click Continue:
 
 ![CKAN Refresh Mod List](./images/CKAN_refresh_mod_list.png)
 
+4. You may see a permission dialog - click **Yes**:
+
+![CKAN Permission Handler](./images/CKAN_requires_permission_to_add_a_handler.png)
+
 ### Cleanup Game Instances
 
 - Go to **Settings** → **Manage Game Instances**
@@ -107,12 +111,11 @@ Select only KSP 1.12 and click Continue:
 
 ![CKAN File Menu](./images/CKAN_file_menu.png)
 
-3. Select the downloaded `.ckan` file
-4. You may see a permission dialog - click **Yes**:
+3. Press **Apply**
 
-![CKAN Permission Handler](./images/CKAN_requires_permission_to_add_a_handler.png)
+![CKAN Change Set](./images/CKAN_change_set.png)
 
-5. Confirm installation when prompted to overwrite:
+4. Confirm installation when prompted to overwrite:
 
 ![CKAN Overwrite Files](./images/CKAN_over_write_files.png)
 
@@ -152,12 +155,18 @@ Select only KSP 1.12 and click Continue:
 - **Texture Quality**: High or Full Res
 - ✅ Enable **Terrain Scatters**
 - **Terrain Scatters Quality**: High or higher
+- **Terrain Shader Quality**: High or higher
 
 ### Optional: Borderless Window
 
 1. Turn **OFF** Fullscreen in KSP settings
 2. In CKAN, hover over **Launch** button → **Edit Launch Command**
+
+![CKAN Play Hover](./images/CKAN_play_hover.png)
+
 3. Set to: `KSP_x64.exe -popupwindow`
+
+![CKAN Command Line](./images/CKAN_command_line.png)
 
 ### Test Your Installation
 
@@ -177,17 +186,82 @@ Select only KSP 1.12 and click Continue:
 
 You're now ready to explore the Kerbal universe with friends! 🚀
 
-## 🆘 Need Help?
+## 💡 Helpful Tips for First Time Players
 
-- Check GitHub Issues for common problems
-- Join our Discord for live support
-- Ensure all steps were followed exactly as written
+### Initial Mod Setup
+
+- **Click Through Blocker**: When prompted, select "Focus-Follows-Mouse" if unsure, then click accept
+- **Toolbar Controller**: Read the information and click "hide this window at startup" when finished
+- **Lunar Transfer Planner**: Close this window by clicking the crescent moon toolbar icon (not needed for basic gameplay)
+- **Principia**: Feel free to close this window for now
+- **kOS Connectivity**: If using kOS, set to "CommNetConnectivityManager" when prompted (for Real Antennas compatibility)
+
+### Visibility at Night
+
+The game uses UTC time, so it may be dark when you start. To improve visibility:
+
+1. Press `ESC` → **Settings**
+2. Find "Ambient Light Boost" setting
+3. Set to around 10-15% for better night visibility while maintaining realism
+
+### Launch Site Selection
+
+![Available Resources](./images/ksp_available_resources.png)
+
+Your starting launch site is Kennedy Space Center (KSC), which provides a good balance of difficulty and accessibility. To change launch sites:
+
+1. Go to **Tracking Station**
+2. Use the "eye" button to show/hide launch sites
+3. Click sites directly or use the list view
+4. **Kourou**: Easier launches, good for beginners
+5. **Baikonur**: More challenging, higher delta-V requirements
+
+### Understanding Resources
+
+Monitor your resources at the top of the screen:
+
+- **Funds**: Money for operations and construction
+- **Reputation**: Affects funding and contract availability
+- **Science**: Used to unlock new technology
+- **Confidence**: Spent on accelerated programs and bonuses
+
+### Contract Strategy
+
+![Accept Contracts](./images/ksp_accept_contracts.png)
+
+Visit Mission Control regularly to:
+
+- Accept available contracts for reputation and rewards
+- Focus on contracts that match your current capabilities
+- Remember: cancelled contracts have no penalties in this modpack
+
+### Building Strategy
+
+Start simple and work your way up:
+
+- Begin with suborbital flights before attempting orbit
+- Sounding rockets are perfect for early altitude and speed contracts
+- Test components thoroughly in atmosphere before space missions
+- Use the 100km Karman Line as your first major milestone
+
+### Additional Resources
+
+For detailed gameplay mechanics, advanced strategies, and comprehensive tutorials, refer to:
+**https://github.com/KSP-RO/RP-1/wiki/Early-Career-Tutorial**
+
+This guide covers advanced topics including:
+
+- Detailed career progression strategies
+- Complex mission planning techniques
+- Advanced mod interactions and configurations
+- In-depth explanations of realistic space program mechanics
 
 ## 📝 Notes
 
 - Keep your `_clean` copy for vanilla KSP or troubleshooting
 - CKAN will manage mod updates automatically
 - Server may have specific rules - check with administrators
+- Save frequently and use multiple save slots for important missions
 
 ---
 
