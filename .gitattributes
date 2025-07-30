@@ -1,0 +1,2 @@
+Principia/**/*.so filter=lfs diff=lfs merge=lfs -text
+Principia/**/*.pdb filter=lfs diff=lfs merge=lfs -text
