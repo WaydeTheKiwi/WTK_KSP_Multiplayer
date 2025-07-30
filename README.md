@@ -262,6 +262,8 @@ This guide covers advanced topics including:
 - CKAN will manage mod updates automatically
 - Server may have specific rules - check with administrators
 - Save frequently and use multiple save slots for important missions
+- Should KSP hang when loading, refresh CKAN and if updated button shows press update all then apply. Do not tick any mods that it suggestions.
+  ![Accept Contracts](./images/CKAN_update.png)
 
 ---
 
