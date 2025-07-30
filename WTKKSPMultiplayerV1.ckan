@@ -385,6 +385,11 @@
             "suppress_recommendations": true
         },
         {
+            "name": "FerramAerospaceResearchContinued",
+            "version": "3:0.16.1.2",
+            "suppress_recommendations": true
+        },
+        {
             "name": "FirespitterCore",
             "version": "v7.17",
             "suppress_recommendations": true
