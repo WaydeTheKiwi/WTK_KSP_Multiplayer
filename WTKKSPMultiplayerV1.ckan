@@ -1,440 +1,599 @@
 {
     "spec_version": "v1.6",
-    "identifier": "WTKKSPMultiplayerV1",
-    "name": "WTK_KSP_Multiplayer",
-    "abstract": "A list of modules installed on the portable KSP instance for WTK_KSP_Multiplayer",
-    "author": "Wayde The Kiwi",
-    "version": "V1",
+    "identifier": "installed-portable",
+    "name": "installed-portable",
+    "abstract": "A list of modules installed on the portable KSP instance",
+    "author": "Wayde",
+    "version": "2025.08.03.11.46.21",
     "ksp_version_min": "1.12",
     "ksp_version_max": "1.12",
-    "license": "GPL-3.0",
+    "license": "unknown",
     "depends": [
         {
-            "name": "RP-1",
-            "version": "v3.22.0.0",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "RP-1-ExpressInstall",
-            "version": "v2.0",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "RP-1-ExpressInstall-Graphics-Medium",
-            "version": "v1.0.0.0",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "LunaMultiplayer",
-            "version": "0.29.0",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "AdvancedJetEngine",
-            "version": "v2.20.0",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "AtmosphereAutopilot",
-            "version": "v1.6.1",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "B9PartSwitch",
-            "version": "v2.21.0.1",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "B9-PWings-Fork",
-            "version": "3:0.46.0",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "BDAnimationModules",
-            "version": "1:v0.6.7.1",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "ClickThroughBlocker",
-            "version": "1:2.1.10.22",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "CommunityCategoryKit",
-            "version": "v112.0.1",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "CommunityResourcePack",
-            "version": "v112.0.1",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "ConformalDecals",
-            "version": "0.2.14",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "ContractConfigurator",
-            "version": "v2.11.2.0",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "CustomBarnKit",
-            "version": "1.1.22.0",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "DepthMask",
-            "version": "1.1.3",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "DistantObject",
-            "version": "v2.2.0.2",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "DistantObject-default",
-            "version": "v2.2.0.2",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "EnvironmentalVisualEnhancements",
-            "version": "3:1.11.7.2",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "FerramAerospaceResearchContinued",
-            "version": "3:0.16.1.2",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "FirespitterCore",
-            "version": "v7.17",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "FirespitterResourcesConfig",
-            "version": "v7.17",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "HangerExtenderExtended",
-            "version": "3.6.0.2",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "Harmony2",
-            "version": "2.2.1.0",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "KerbalChangelog",
-            "version": "v1.4.2",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "Kerbalism",
-            "version": "3.19",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "Kerbalism-Config-RO",
-            "version": "v1.3.1.0",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "KerbalJointReinforcementContinued",
-            "version": "v3.8.6.0",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "KerbalRenamer",
-            "version": "v1.7.0.0",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "Kopernicus",
-            "version": "2:release-1.12.1-227",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "KSCSwitcher",
-            "version": "v2.2.0.0",
+            "name": "KSPBurst-Lite",
             "suppress_recommendations": true
         },
         {
             "name": "KSPBurst",
-            "version": "v1.5.5.2",
             "suppress_recommendations": true
         },
         {
-            "name": "KSPBurst-Lite",
-            "version": "v1.5.5.2",
+            "name": "SpaceTuxLibrary",
             "suppress_recommendations": true
         },
         {
             "name": "KSPCommunityFixes",
-            "version": "1.38.1",
             "suppress_recommendations": true
         },
         {
-            "name": "KSPWheel",
-            "version": "1:0.16.14.33",
+            "name": "ParallaxContinued",
             "suppress_recommendations": true
         },
         {
-            "name": "MechJeb2",
-            "version": "2.14.3.0",
+            "name": "ParallaxContinued-Planet-Textures",
             "suppress_recommendations": true
         },
         {
-            "name": "ModularFlightIntegrator",
-            "version": "1.2.10.0",
+            "name": "ParallaxContinued-Scatter-Textures",
             "suppress_recommendations": true
         },
         {
-            "name": "ModularLaunchPads",
-            "version": "2.9.0",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "ModuleManager",
-            "version": "4.2.3",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "PatchManager",
-            "version": "0.0.17.6",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "PlanetShine",
-            "version": "0.2.6.6",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "PlanetShine-Config-Default",
-            "version": "0.2.6.6",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "ProceduralFairings",
-            "version": "1:v6.7.0.0",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "ProceduralParts",
-            "version": "v2.8.0.0",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "RCSBuildAid",
-            "version": "v1.0.6",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "RealAntennas",
-            "version": "v2.8.1.0",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "RealChute",
-            "version": "v1.4.9.5",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "RealChuteForStock",
-            "version": "v1.4.9.5",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "RealFuels",
-            "version": "1:v15.12.0.0",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "RealHeat",
-            "version": "v5.1",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "RealismOverhaul",
-            "version": "v17.20.0.0",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "RealPlume",
-            "version": "2:v13.3.2",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "RealSolarSystem",
-            "version": "v20.1.3.0",
+            "name": "ParallaxContinued-Terrain-Textures",
             "suppress_recommendations": true
         },
         {
             "name": "ReStock",
-            "version": "1.5.1",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "ReStockPlus",
-            "version": "1.5.1",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "Resurfaced",
-            "version": "v1.3",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "RetractableLiftingSurface",
-            "version": "0.2.1.2",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "ROCapsules",
-            "version": "v2.7.0.0",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "ROEngines",
-            "version": "v2.13.3.0",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "ROHeatshields",
-            "version": "v1.3.0.0",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "ROLib",
-            "version": "v2.0.0.0",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "ROSolar",
-            "version": "v2.1.2.0",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "ROTanks",
-            "version": "v2.10.0.0",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "ROUtils",
-            "version": "v1.1.0.0",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "RSSDateTimeFormatter",
-            "version": "v1.12.1.0",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "RSSTextures8192",
-            "version": "v18.6.1",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "RSSVE-LR",
-            "version": "v2.2.1",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "Scatterer",
-            "version": "3:v0.0878",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "Scatterer-config",
-            "version": "3:v0.0878",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "Scatterer-sunflare",
-            "version": "3:v0.0878",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "Shabby",
-            "version": "0.4.2",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "Skopos",
-            "version": "v1.0.5.0",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "SmokeScreen",
-            "version": "2.8.14.0",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "SolverEngines",
-            "version": "v3.14.0",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "StagedAnimation",
-            "version": "v2.0",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "SXTContinued",
-            "version": "2:0.3.31.1",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "TestFlight",
-            "version": "v2.9.0.0",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "TextureReplacer",
-            "version": "v4.5.3",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "TexturesUnlimited",
-            "version": "1.6.4.30",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "ToolbarController",
-            "version": "1:0.1.9.14",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "TweakScaleRescaled-Redist",
-            "version": "3.2.4",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "VenStockRevamp-Core",
-            "version": "v1.16.0",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "VenStockRevamp-NewParts",
-            "version": "v1.16.0",
             "suppress_recommendations": true
         },
         {
             "name": "Waterfall",
-            "version": "0.10.5",
             "suppress_recommendations": true
         },
         {
-            "name": "WTKKSPMultiplayerV1",
-            "version": "V1",
+            "name": "CommunityResourcePack",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "EnvironmentalVisualEnhancements",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ProceduralParts",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "RasterPropMonitor-Core",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Scatterer-config",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Scatterer-sunflare",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "VABOrganizer",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "CommunityCategoryKit",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Scatterer",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "TexturesUnlimited",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "AstronomersVisualPack",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "AVP-8kTextures",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Chatterer",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "CommunityTechTree",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "FirespitterResourcesConfig",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "HUDReplacer",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "IndicatorLights",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "PlanetShine",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "PlanetShine-Config-Default",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "MainSailorTextures-Essentials",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "VensStylePPTextures",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "RealPlume",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "RealPlume-StockConfigs",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "RealChute",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ReStockPlus",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ScrapYard",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "TextureReplacer",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "TweakScaleRescaled",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "VesselView",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "VesselView-UI-RasterPropMonitor",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "4kSPExpanded",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "AGExt",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "AlternateResourcePanel",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ModuleAnimateGenericEffects",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "AnimatedDecouplers",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "AntennaHelper",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "BetterBurnTime",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "BetterTimeWarpCont",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "CameraControllerNext",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ChattererExtended",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "CommNetAntennasConsumptor",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "CommNetAntennasExtension",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "CommNetAntennasInfo",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ContractConfigurator-CommNetRelays",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "CommunityDeltaVMaps",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "CommunityDeltaVMaps-OPM",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "CommunityPartsTitles",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "CommunityPartsTitlesExtrasCategory",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "CommunityPartsTitlesExtrasNoCCKDup",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "CommunityPlanetEnhancementLaythe",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Mk33CTTPatch",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "CommunityTerrainTexturePack",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "CommunityTraitIcons",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ConfigurableContainers",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "CrewLight",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "DecouplerShroud",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Deferred",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "DistantObject",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "DockRotate",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "DockingPortAlignmentIndicator",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "EasyVesselSwitch",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "EngineLightRelit",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "EVAEnhancementsContinued",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "FASA",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "FerramAerospaceResearchContinued",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Firefly",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Firespitter",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "FlagPack",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "FMRSContinued",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Hangar",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "HangerExtenderExtended",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "HideEmptyTechNodes",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "IndicatorLightsCommunityExtensions",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "InfernalRoboticsNext",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KcalbelohSystem-Textures-8k",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KerbalAtomics-NTRModSupport",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KAS",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KerbalEngineerRedux",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KIS",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KerbalJointReinforcementContinued",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KerbalKonstructs",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KerbalPlanetaryBaseSystems",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KSCSwitcher",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KSP-AVC",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KSPCommunityPartModules",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KspCraftOrganizer",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KSPRC-CityLights",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KSPRC-Textures",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "MechJeb2",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "MechJebForAll",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "MissingHistory",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "MOISTUnderwaterTechnologies",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "NavballDockAlignIndCE",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "OhScrap",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ParallaxContinued-Lifeless-Eve-Patch",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ParkingBrake",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "PartWizardContinued",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "PatchManager",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "PoodsDeepStarMap",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ProceduralFairings",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "HazardTanksTextures",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "MainSailorTextures-Complete",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "RasterPropMonitor",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "RealAntennas",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "RealChuteForStock",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "RealHeat",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ReentryParticleEffect",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "RestockRigidLegs",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "RocketSoundEnhancement",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "SmartParts",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "SmartStage",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "SpaceDust",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "StagedAnimation",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "StageRecovery",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "StockWaterfallEffects",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "StationPartsExpansionRedux",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "surfacelights",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "JanitorsCloset",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Toolbar",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "TransferWindowPlannerFork",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "TriggerAu-Flags",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "TUFX",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "TweakScaleCompanion-ReStockPlus",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "TweakScaleRescaled-SafetyNet",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "RN-USProbesPack",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "RN-USRockets",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "VABOrganizer-Jade",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "VABOrganizer-Munk",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "VABOrganizer-SheepDog",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "VaporCones",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "VaporVent",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "VolumetricVaporCones",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "WaterfallRestock",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "WaterfallExtensions",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "WaypointManager",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ZTheme",
             "suppress_recommendations": true
         }
     ],
-    "release_date": "2025-07-30T16:15:25.5512054Z",
+    "release_date": "2025-08-03T23:46:21.2901154Z",
     "kind": "metapackage"
 }
