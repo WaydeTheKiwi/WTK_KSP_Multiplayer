@@ -126,4 +126,66 @@ Select only KSP 1.12 and click Continue:
 - Click **Launch KSP** in CKAN, or run `KSP_x64.exe` from the modded folder
 
 ### What to Expect
+
+- First launch takes several minutes
+- "Loading Expansions" and ModuleManager setup will be slow
+- If Parallax warning appears and won't close, press `ESC`
+
+![Parallax Warning](./images/KSP_parallax_warning.png)
+
+- You may also see Community Fixes notifications - these are normal:
+
+![Community Fixes](./images/KSP_community_fixes.png)
+
+## ⚙️ Step 7: Configure Settings
+
+### General Settings
+
+- ✅ Enable **Advanced Tweakables**
+
+### Input Settings
+
+- **Default Throttle (Pre-Launch)**: 100%
+
+![Advanced Tweakables and Default Throttle](./images/KSP_advanced_tweakables+_default_throttle.png)
+
+### Graphics Settings
+
+- **Terrain Detail**: High or Ultra
+- **Texture Quality**: High or Full Res
+- ✅ Enable **Terrain Scatters**
+- **Terrain Scatters Quality**: High or higher
+- **Terrain Shader Quality**: High or higher
+
+### Optional: Borderless Window
+
+1. Turn **OFF** Fullscreen in KSP settings
+2. In CKAN, hover over **Launch** button → **Edit Launch Command**
+
+![CKAN Play Hover](./images/CKAN_play_hover.png)
+
+3. Set to: `KSP_x64.exe -popupwindow`
+
+![CKAN Command Line](./images/CKAN_command_line.png)
+
+### Test Your Installation
+
+- Create a new sandbox save
+- Verify planets, mods, and UI are working correctly
+
+## 🌐 Step 8: Connect to Multiplayer
+
+1. From main menu, click **Luna Multiplayer**
+2. Click the **+** button to add server
+3. Enter server details:
+   - **Address**: `ksp.waydethekiwi.com`
+4. Enter your **Player Name**
+5. Click the **Satellite icon** to connect
+
+## 🎯 Success!
+
+You're now ready to explore the Kerbal universe with friends! 🚀
+
+---
+
 **Happy flying, astronauts!** 🌌

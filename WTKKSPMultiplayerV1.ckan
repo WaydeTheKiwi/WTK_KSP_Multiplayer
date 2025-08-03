@@ -4,7 +4,7 @@
     "name": "installed-portable",
     "abstract": "A list of modules installed on the portable KSP instance",
     "author": "Wayde",
-    "version": "2025.08.03.11.46.21",
+    "version": "2025.08.03.11.52.58",
     "ksp_version_min": "1.12",
     "ksp_version_max": "1.12",
     "license": "unknown",
@@ -402,6 +402,10 @@
             "suppress_recommendations": true
         },
         {
+            "name": "LunaMultiplayer",
+            "suppress_recommendations": true
+        },
+        {
             "name": "MechJeb2",
             "suppress_recommendations": true
         },
@@ -594,6 +598,6 @@
             "suppress_recommendations": true
         }
     ],
-    "release_date": "2025-08-03T23:46:21.2901154Z",
+    "release_date": "2025-08-03T23:52:58.7556776Z",
     "kind": "metapackage"
 }
