@@ -4,7 +4,7 @@
     "name": "installed-portable",
     "abstract": "A list of modules installed on the portable KSP instance",
     "author": "Wayde",
-    "version": "2025.08.03.11.52.58",
+    "version": "2025.08.04.04.51.32",
     "ksp_version_min": "1.12",
     "ksp_version_max": "1.12",
     "license": "unknown",
@@ -14,15 +14,15 @@
             "suppress_recommendations": true
         },
         {
-            "name": "KSPBurst",
-            "suppress_recommendations": true
-        },
-        {
             "name": "SpaceTuxLibrary",
             "suppress_recommendations": true
         },
         {
-            "name": "KSPCommunityFixes",
+            "name": "KSPBurst",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "CommunityResourcePack",
             "suppress_recommendations": true
         },
         {
@@ -42,15 +42,7 @@
             "suppress_recommendations": true
         },
         {
-            "name": "ReStock",
-            "suppress_recommendations": true
-        },
-        {
             "name": "Waterfall",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "CommunityResourcePack",
             "suppress_recommendations": true
         },
         {
@@ -58,11 +50,11 @@
             "suppress_recommendations": true
         },
         {
-            "name": "ProceduralParts",
+            "name": "RasterPropMonitor-Core",
             "suppress_recommendations": true
         },
         {
-            "name": "RasterPropMonitor-Core",
+            "name": "ReStock",
             "suppress_recommendations": true
         },
         {
@@ -82,11 +74,11 @@
             "suppress_recommendations": true
         },
         {
-            "name": "Scatterer",
+            "name": "KSPCommunityFixes",
             "suppress_recommendations": true
         },
         {
-            "name": "TexturesUnlimited",
+            "name": "Scatterer",
             "suppress_recommendations": true
         },
         {
@@ -99,10 +91,6 @@
         },
         {
             "name": "Chatterer",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "CommunityTechTree",
             "suppress_recommendations": true
         },
         {
@@ -126,14 +114,6 @@
             "suppress_recommendations": true
         },
         {
-            "name": "MainSailorTextures-Essentials",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "VensStylePPTextures",
-            "suppress_recommendations": true
-        },
-        {
             "name": "RealPlume",
             "suppress_recommendations": true
         },
@@ -146,10 +126,6 @@
             "suppress_recommendations": true
         },
         {
-            "name": "ReStockPlus",
-            "suppress_recommendations": true
-        },
-        {
             "name": "ScrapYard",
             "suppress_recommendations": true
         },
@@ -158,7 +134,7 @@
             "suppress_recommendations": true
         },
         {
-            "name": "TweakScaleRescaled",
+            "name": "VenStockRevamp-Core",
             "suppress_recommendations": true
         },
         {
@@ -242,15 +218,11 @@
             "suppress_recommendations": true
         },
         {
-            "name": "CommunityPartsTitlesExtrasNoCCKDup",
-            "suppress_recommendations": true
-        },
-        {
             "name": "CommunityPlanetEnhancementLaythe",
             "suppress_recommendations": true
         },
         {
-            "name": "Mk33CTTPatch",
+            "name": "CommunityTechTree",
             "suppress_recommendations": true
         },
         {
@@ -350,10 +322,6 @@
             "suppress_recommendations": true
         },
         {
-            "name": "KerbalAtomics-NTRModSupport",
-            "suppress_recommendations": true
-        },
-        {
             "name": "KAS",
             "suppress_recommendations": true
         },
@@ -375,6 +343,10 @@
         },
         {
             "name": "KerbalPlanetaryBaseSystems",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Konstruction",
             "suppress_recommendations": true
         },
         {
@@ -414,15 +386,19 @@
             "suppress_recommendations": true
         },
         {
-            "name": "MissingHistory",
+            "name": "Mk2Expansion",
             "suppress_recommendations": true
         },
         {
-            "name": "MOISTUnderwaterTechnologies",
+            "name": "Mk3Expansion",
             "suppress_recommendations": true
         },
         {
             "name": "NavballDockAlignIndCE",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "NavBallTextureChangerUpdated",
             "suppress_recommendations": true
         },
         {
@@ -454,11 +430,7 @@
             "suppress_recommendations": true
         },
         {
-            "name": "HazardTanksTextures",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "MainSailorTextures-Complete",
+            "name": "VensStylePPTextures",
             "suppress_recommendations": true
         },
         {
@@ -486,11 +458,11 @@
             "suppress_recommendations": true
         },
         {
-            "name": "RocketSoundEnhancement",
+            "name": "ReStockPlus",
             "suppress_recommendations": true
         },
         {
-            "name": "SmartParts",
+            "name": "RocketSoundEnhancement",
             "suppress_recommendations": true
         },
         {
@@ -522,6 +494,10 @@
             "suppress_recommendations": true
         },
         {
+            "name": "TexturesUnlimited",
+            "suppress_recommendations": true
+        },
+        {
             "name": "JanitorsCloset",
             "suppress_recommendations": true
         },
@@ -542,19 +518,11 @@
             "suppress_recommendations": true
         },
         {
-            "name": "TweakScaleCompanion-ReStockPlus",
+            "name": "TweakScaleRescaled",
             "suppress_recommendations": true
         },
         {
             "name": "TweakScaleRescaled-SafetyNet",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "RN-USProbesPack",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "RN-USRockets",
             "suppress_recommendations": true
         },
         {
@@ -578,6 +546,10 @@
             "suppress_recommendations": true
         },
         {
+            "name": "VenStockRevamp-NewParts",
+            "suppress_recommendations": true
+        },
+        {
             "name": "VolumetricVaporCones",
             "suppress_recommendations": true
         },
@@ -598,6 +570,6 @@
             "suppress_recommendations": true
         }
     ],
-    "release_date": "2025-08-03T23:52:58.7556776Z",
+    "release_date": "2025-08-04T04:51:32.3410943Z",
     "kind": "metapackage"
 }
